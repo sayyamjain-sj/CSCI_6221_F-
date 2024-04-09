@@ -1,0 +1,17 @@
+c:\Users\naiti\OneDrive\Desktop\GW Studies\AntiviurF\obj\Debug\net8.0\AntiviurF.fsproj.AssemblyReference.cache
+c:\Users\naiti\OneDrive\Desktop\GW Studies\AntiviurF\obj\Debug\net8.0\AntiviurF.AssemblyInfoInputs.cache
+c:\Users\naiti\OneDrive\Desktop\GW Studies\AntiviurF\obj\Debug\net8.0\AntiviurF.AssemblyInfo.fs
+c:\Users\naiti\OneDrive\Desktop\GW Studies\AntiviurF\obj\Debug\net8.0\AntiviurF.fsproj.CoreCompileInputs.cache
+C:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.fsproj.AssemblyReference.cache
+C:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.AssemblyInfoInputs.cache
+C:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.AssemblyInfo.fs
+C:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.fsproj.CoreCompileInputs.cache
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\bin\Debug\net8.0\AntiviurF.deps.json
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\bin\Debug\net8.0\AntiviurF.dll
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\bin\Debug\net8.0\AntiviurF.pdb
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\bin\Debug\net8.0\AntiviurF.xml
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.dll
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\refint\AntiviurF.dll
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.xml
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\AntiviurF.pdb
+c:\Users\naiti\OneDrive\Desktop\GW Studies\ProjectSYN\AntiviurF\obj\Debug\net8.0\ref\AntiviurF.dll
